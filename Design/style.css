@@ -12,7 +12,7 @@ body::before {
   content: "";
   position: fixed;
   inset: -120px; /* Must be larger than the 100px blur to hide white edges */
-  background-image: url('images/background.jpg');
+  background-image: url("images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
